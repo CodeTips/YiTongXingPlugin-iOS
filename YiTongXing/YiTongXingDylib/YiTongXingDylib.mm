@@ -1,4 +1,4 @@
-#line 1 "/Users/timeaside/Desktop/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"
+#line 1 "/Users/timeaside/Documents/GitHub/YiTongXingPlugin-iOS/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"
 
 
 
@@ -25,7 +25,7 @@
 @class AppDelegate; 
 static _Bool (*_logos_orig$_ungrouped$AppDelegate$application$didFinishLaunchingWithOptions$)(_LOGOS_SELF_TYPE_NORMAL AppDelegate* _LOGOS_SELF_CONST, SEL, id, id); static _Bool _logos_method$_ungrouped$AppDelegate$application$didFinishLaunchingWithOptions$(_LOGOS_SELF_TYPE_NORMAL AppDelegate* _LOGOS_SELF_CONST, SEL, id, id); static void (*_logos_orig$_ungrouped$AppDelegate$applicationDidEnterBackground$)(_LOGOS_SELF_TYPE_NORMAL AppDelegate* _LOGOS_SELF_CONST, SEL, id); static void _logos_method$_ungrouped$AppDelegate$applicationDidEnterBackground$(_LOGOS_SELF_TYPE_NORMAL AppDelegate* _LOGOS_SELF_CONST, SEL, id); static void _logos_method$_ungrouped$AppDelegate$application$performActionForShortcutItem$completionHandler$(_LOGOS_SELF_TYPE_NORMAL AppDelegate* _LOGOS_SELF_CONST, SEL, id, id, void (^)(BOOL)); 
 
-#line 3 "/Users/timeaside/Desktop/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"
+#line 3 "/Users/timeaside/Documents/GitHub/YiTongXingPlugin-iOS/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"
 #import <UIKit/UIKit.h>
 #import "ShortcutItemHandler.h"
 
@@ -54,4 +54,4 @@ static void _logos_method$_ungrouped$AppDelegate$application$performActionForSho
 
 static __attribute__((constructor)) void _logosLocalInit() {
 {Class _logos_class$_ungrouped$AppDelegate = objc_getClass("AppDelegate"); MSHookMessageEx(_logos_class$_ungrouped$AppDelegate, @selector(application:didFinishLaunchingWithOptions:), (IMP)&_logos_method$_ungrouped$AppDelegate$application$didFinishLaunchingWithOptions$, (IMP*)&_logos_orig$_ungrouped$AppDelegate$application$didFinishLaunchingWithOptions$);MSHookMessageEx(_logos_class$_ungrouped$AppDelegate, @selector(applicationDidEnterBackground:), (IMP)&_logos_method$_ungrouped$AppDelegate$applicationDidEnterBackground$, (IMP*)&_logos_orig$_ungrouped$AppDelegate$applicationDidEnterBackground$);{ char _typeEncoding[1024]; unsigned int i = 0; _typeEncoding[i] = 'v'; i += 1; _typeEncoding[i] = '@'; i += 1; _typeEncoding[i] = ':'; i += 1; _typeEncoding[i] = '@'; i += 1; _typeEncoding[i] = '@'; i += 1; memcpy(_typeEncoding + i, @encode(void (^)(BOOL)), strlen(@encode(void (^)(BOOL)))); i += strlen(@encode(void (^)(BOOL))); _typeEncoding[i] = '\0'; class_addMethod(_logos_class$_ungrouped$AppDelegate, @selector(application:performActionForShortcutItem:completionHandler:), (IMP)&_logos_method$_ungrouped$AppDelegate$application$performActionForShortcutItem$completionHandler$, _typeEncoding); }} }
-#line 29 "/Users/timeaside/Desktop/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"
+#line 29 "/Users/timeaside/Documents/GitHub/YiTongXingPlugin-iOS/YiTongXing/YiTongXingDylib/YiTongXingDylib.xm"

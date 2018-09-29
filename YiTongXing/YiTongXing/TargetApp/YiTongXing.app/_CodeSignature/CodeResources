@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		0/x3taE68NLv0cfq5Wi4lGz33Bk=
+		X0cYMEdTEe8fuyIRWK0HOJwad38=
 		</data>
 		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pYSr4tMls5jHQugSO6Z01okIso0=
+		PpgABnuFyb5/d/klk/wZZyeMLT0=
 		</data>
 		<key>JDPAuthResource.bundle/jdpauth_back.png</key>
 		<data>
@@ -139,13 +139,64 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/SiriKitIntentExtension.appex/Info.plist</key>
+		<data>
+		0MSPw4boLSN/kluu5enfPZR7WEc=
+		</data>
+		<key>PlugIns/SiriKitIntentExtension.appex/SiriKitIntentExtension</key>
+		<data>
+		CPd4Ba5/Qm3oLvbZ3mdsa8/xvAo=
+		</data>
+		<key>PlugIns/SiriKitIntentExtension.appex/_CodeSignature/CodeResources</key>
+		<data>
+		xZ6M7UlHWuFl9An5H8Jkhk31Khg=
+		</data>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JSVtWAA1qXB+ugBVV9nAxISDPxM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oLhk4lHdWV9v1KqhRK8QGe3Yeu8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Info.plist</key>
+		<data>
+		+RalTbeTc+zIY+9Imdyh5DL0kxw=
+		</data>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/SiriKitIntentExtensionUI</key>
+		<data>
+		wyintbMxYjxnTi1sVFKRmCHINtk=
+		</data>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/_CodeSignature/CodeResources</key>
+		<data>
+		UzXK4trnE7QVn8hfQNh17ZrMjsQ=
+		</data>
 		<key>RCConfig.plist</key>
 		<data>
 		l1KWW499ExUVHUsooiib6U9N5O8=
 		</data>
 		<key>RPBrowser.bundle/Info.plist</key>
 		<data>
-		mMYnBcLXK3RqF5ADsDp/sBpZmnA=
+		nKzJ/ghc60sZ66G9PCWa+bmTTz4=
 		</data>
 		<key>RPBrowser.bundle/close@2x.png</key>
 		<data>
@@ -157,7 +208,7 @@
 		</data>
 		<key>RPRefreshControl.bundle/Info.plist</key>
 		<data>
-		tkVECACZwPyfbfsD/NiWzPsip0M=
+		YKtuQyc8mUEuGvE/k7+LUZy6fGw=
 		</data>
 		<key>RPRefreshControl.bundle/页面刷新-箭头@2x.png</key>
 		<data>
@@ -177,7 +228,7 @@
 		</data>
 		<key>SC_Info/Manifest.plist</key>
 		<data>
-		sRARsmxPzq4O3VVPXanfWlccZeM=
+		0c5/6+nLWkljDIVRjVe9oL3z0to=
 		</data>
 		<key>SobotKit.bundle/ZCIconAdd.png</key>
 		<data>
@@ -899,6 +950,10 @@
 		<data>
 		ayGm+p3ZFpqr4hVT9aDgi2cZ1go=
 		</data>
+		<key>YTXConfig.db</key>
+		<data>
+		zBfBNw6XcWmbVVW5UyA0OPOTrjM=
+		</data>
 		<key>YTX_tips_done@2x.png</key>
 		<data>
 		wOWmO7d4tkBJ9lIzQBzrstZ9JgQ=
@@ -1364,6 +1419,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fam.json</key>
+		<data>
+		PgM7/qK5MIHmBkQ+z8xkL4MxKI0=
+		</data>
 		<key>fare_location_1.0.json</key>
 		<data>
 		7ZVQT0XSrt04CnpBV37oq2VqMhE=
@@ -1676,6 +1735,10 @@
 		<data>
 		n4WavfCIPpHS2rxztmkQjn4obng=
 		</data>
+		<key>stations.json</key>
+		<data>
+		r/kZFyRP9LvUDSzdDJom1fVurvM=
+		</data>
 		<key>volunteer_station.json</key>
 		<data>
 		gw5C7EHOcP9GXinJNVRwy1EEH5U=
@@ -1788,11 +1851,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0/x3taE68NLv0cfq5Wi4lGz33Bk=
+			X0cYMEdTEe8fuyIRWK0HOJwad38=
 			</data>
 			<key>hash2</key>
 			<data>
-			0p4YzfNUpt3Ay/zBVCGXBjRX+3WhyMRJVAMd6A/qtSk=
+			wUYw0VBk5EuILItWFFufAGcrGxLyKfpLYd5JuLj4DKs=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
@@ -2010,6 +2073,111 @@
 			RIrnCaPDCP5NWba2pfkaxidx+QRyQVTm9d7MgBGA3KQ=
 			</data>
 		</dict>
+		<key>PlugIns/SiriKitIntentExtension.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0MSPw4boLSN/kluu5enfPZR7WEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/fvbMXcS5kD24sOdO/Dz8s+I/09mqAhu4UYghhBFzhc=
+			</data>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtension.appex/SiriKitIntentExtension</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CPd4Ba5/Qm3oLvbZ3mdsa8/xvAo=
+			</data>
+			<key>hash2</key>
+			<data>
+			FrHy0nVlmvQw1uia6Xa/6pBFV+Y87AiX4KWtvpFptc4=
+			</data>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtension.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xZ6M7UlHWuFl9An5H8Jkhk31Khg=
+			</data>
+			<key>hash2</key>
+			<data>
+			LcVB1z1w0UldO+mGlnenr0OcEIBKy5FBmx15lUv/Q/0=
+			</data>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Zkoj+a7Nv+GT39rrbg05J2Y7OQHhbaZkFLZo44H0so=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JSVtWAA1qXB+ugBVV9nAxISDPxM=
+			</data>
+			<key>hash2</key>
+			<data>
+			5MbboBsaaKYLzC72kIu11Gz1f8BsWOgGLMuUPog5MZ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oLhk4lHdWV9v1KqhRK8QGe3Yeu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			hHQSggBTsOXJYc7E/hLNr0u/QEgwKEcy8WnN3Gx5ooA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+RalTbeTc+zIY+9Imdyh5DL0kxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RJffgO+oN9cIAYHxzcY3DNjg75hc4duuoTuSzg5WvhI=
+			</data>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/SiriKitIntentExtensionUI</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wyintbMxYjxnTi1sVFKRmCHINtk=
+			</data>
+			<key>hash2</key>
+			<data>
+			xbJdngXuJfqK0Et48BPdVvdjxrGWyocBTh8rlIlfwAQ=
+			</data>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UzXK4trnE7QVn8hfQNh17ZrMjsQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Exi2Ld17drUD9u/GxEiHWlEqJYYmnCt1ahOZULrlozs=
+			</data>
+		</dict>
 		<key>RCConfig.plist</key>
 		<dict>
 			<key>hash</key>
@@ -2025,11 +2193,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mMYnBcLXK3RqF5ADsDp/sBpZmnA=
+			nKzJ/ghc60sZ66G9PCWa+bmTTz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			EvesPllcIDAe++EkQtZCxvlWA6r+veiMUYnDNvNbXds=
+			oAixFumpJ+Cm9uuQDRKvn2PWce1AQEllcXM4DtV2/0I=
 			</data>
 		</dict>
 		<key>RPBrowser.bundle/close@2x.png</key>
@@ -2058,11 +2226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tkVECACZwPyfbfsD/NiWzPsip0M=
+			YKtuQyc8mUEuGvE/k7+LUZy6fGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			CwnvNDrZp0ZwQ/QAdfwGjHQ3vKTiBVJeg5kexAGah/k=
+			ESvHJ0OqN8ZYai9PRvkkrdS8OJiMH1RsbhHrzwEzZEg=
 			</data>
 		</dict>
 		<key>RPRefreshControl.bundle/页面刷新-箭头@2x.png</key>
@@ -2113,11 +2281,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sRARsmxPzq4O3VVPXanfWlccZeM=
+			0c5/6+nLWkljDIVRjVe9oL3z0to=
 			</data>
 			<key>hash2</key>
 			<data>
-			H0Sq9r610U3NGVi9R1Is4lYhFgJsIXsP4gjkR2IFzl0=
+			rbmAXWuUJFJpIdz50BvQt4yGdCZxJre5QtDGb73GGZE=
 			</data>
 		</dict>
 		<key>SobotKit.bundle/ZCIconAdd.png</key>
@@ -4100,6 +4268,17 @@
 			O4ZFU6zgaOoA+lbfSTuTyTuzALXcqbx0uRlOJH0fT70=
 			</data>
 		</dict>
+		<key>YTXConfig.db</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zBfBNw6XcWmbVVW5UyA0OPOTrjM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jhg3mR8ODXiWeed6ERC5foBAwDL1Rgt5gjxRinRRE7g=
+			</data>
+		</dict>
 		<key>YTX_tips_done@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -5367,6 +5546,17 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fam.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PgM7/qK5MIHmBkQ+z8xkL4MxKI0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Olg7EFRxwGRgzAU4H/ffcU/Ik1izUh5WXpDm0lJ+3G4=
+			</data>
+		</dict>
 		<key>fare_location_1.0.json</key>
 		<dict>
 			<key>hash</key>
@@ -6225,6 +6415,17 @@
 			XPEUvUS6pCCsDLirq4zW8Rkwde917tIDsGnYZ4+MoWs=
 			</data>
 		</dict>
+		<key>stations.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r/kZFyRP9LvUDSzdDJom1fVurvM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ndt17dqxbYAScKmsH5zOMHCT1pg+e33+Ly6WLsLwsiE=
+			</data>
+		</dict>
 		<key>volunteer_station.json</key>
 		<dict>
 			<key>hash</key>
@@ -6263,6 +6464,20 @@
 	</dict>
 	<key>rules</key>
 	<dict>
+		<key>PlugIns/SiriKitIntentExtension.appex/SC_Info/SiriKitIntentExtension.(sinf|supp|supf|supx)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/SC_Info/SiriKitIntentExtensionUI.(sinf|supp|supf|supx)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
 		<key>SC_Info/YiTongXing.(sinf|supp|supf|supx)$</key>
 		<dict>
 			<key>omit</key>
@@ -6300,6 +6515,20 @@
 		<dict>
 			<key>weight</key>
 			<real>11</real>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtension.appex/SC_Info/SiriKitIntentExtension.(sinf|supp|supf|supx)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>PlugIns/SiriKitIntentExtensionUI.appex/SC_Info/SiriKitIntentExtensionUI.(sinf|supp|supf|supx)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
 		</dict>
 		<key>SC_Info/YiTongXing.(sinf|supp|supf|supx)$</key>
 		<dict>
